@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hi, I'm Oleksandr
 
-<!--
-**romanov-architect/romanov-architect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer focused on building scalable APIs and backend systems.
 
-Here are some ideas to get you started:
+### Tech I work with
+- Backend: NestJS, Laravel, Node.js
+- Databases: PostgreSQL, MySQL
+- APIs: REST, GraphQL
+- Payments: Stripe
+- AI: OpenAI
+- DevOps: Docker, CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy designing clean architectures and solving backend problems for real products.
